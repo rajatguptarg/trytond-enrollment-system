@@ -1,4 +1,4 @@
-trytond-enrollment-system
+Trytond Enrollment System
 ==========================
 
 This model includes the medical amd family information of the enrollment system.
